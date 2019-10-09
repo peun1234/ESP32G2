@@ -1,0 +1,2 @@
+# ESP32G2
+IOT_FI
